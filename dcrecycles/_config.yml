@@ -23,6 +23,8 @@ twitter_username: jekyllrb
 github_username:  theystudios
 # Display RSS feed link.
 rss: false
+# Theme color, a hexadecimal color value to turn phone bars colors. Do not include the leading hash.
+theme_color: "0b9444"
 
 # Collection settings
 collections:

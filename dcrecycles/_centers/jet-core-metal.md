@@ -6,6 +6,7 @@ address: 840 Samaria Bend Road
 city: Dyersburg
 state: TN
 zip: 38024
+primary: metal
 categories:
   metals
 ---

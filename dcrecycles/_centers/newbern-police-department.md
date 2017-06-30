@@ -6,6 +6,7 @@ address: 121 E Main Street
 city: Newbern
 state: TN
 zip: 38059
+primary: medication
 categories:
   medications
 ---

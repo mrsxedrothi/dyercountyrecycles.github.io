@@ -6,6 +6,7 @@ address: 1155 Highway 51 Bypass West
 city: Dyersburg
 state: TN
 zip: 38024
+primary: plastic
 categories:
   compact fluorescent bulbs
   rechargeable batteries
