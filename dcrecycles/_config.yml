@@ -22,6 +22,12 @@ url: "http://dyercountyrecycles.org" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  theystudios
 
+# Collection settings
+collections:
+  centers:
+    output: true
+    permalink: /:collection/:path/
+
 # Build settings
 markdown: kramdown
 theme: minima
