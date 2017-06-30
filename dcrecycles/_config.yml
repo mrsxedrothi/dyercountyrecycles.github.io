@@ -28,6 +28,17 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Static Files
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+  - scope:
+      path: "assets/vid"
+    values:
+      movie: true
+
 # Build settings
 markdown: kramdown
 theme: minima
