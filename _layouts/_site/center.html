@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  {% include header.html %}
+
+  <body>
+    <section class="page-wrapper center-layout">
+      <p>{% layout.address %}</p>
+      <p>{% layout.city %}, {% layout.state %} {% layout.zip %}</p>
+      <p><a href="tel:{% layout.phone %}">{% layout.phone %]</a></p>
+      {{content}}
+    </section>
+  </body>
+
+  {% include footer.html %}
+</html>
