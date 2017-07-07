@@ -8,7 +8,7 @@ state: TN
 zip: 38024
 primary: metal
 categories:
-  metals
+  metal
 ---
 
 Monday to Friday 8:00am - 4:00pm

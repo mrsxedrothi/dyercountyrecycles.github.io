@@ -12,7 +12,9 @@ layout: default
   </div>
 
   <div class="collection-list">
-    {% for center in site.centers %}
+  {% assign primary = page.title | downcase %}
+  {% assign centers = site.centers | where:"primary",primary %}
+  {% for center in centers %}
     <h2>{{ center.title }}</h2>
     <p>{{ center.address }}<br>{{ center.city }}, {{ center.state }} {{ center.zip }}</p>
     <p>Phone: <a href="tel:{{ center.phone }}">{{ center.phone }}</a></p>
