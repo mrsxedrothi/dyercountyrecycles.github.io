@@ -11,4 +11,4 @@ categories:
   medications
 ---
 
-Looks for a box in the entryway.
+Look for a box in the entryway.
