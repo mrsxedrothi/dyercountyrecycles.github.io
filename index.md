@@ -5,4 +5,8 @@
 layout: home
 ---
 
-<video src="assets/vid/dcrecycles.mp4" autoplay>Unsupported, oh no!</video>
+<video autoplay controls="false">
+  <source src="assets/vid/dcrecycles.webm" type="video/webm">
+  <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
+  Unsupported, oh no!
+</video>
