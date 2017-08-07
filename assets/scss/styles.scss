@@ -4,3 +4,7 @@
 body {
   @include bg-gradient();
 }
+
+.page-content {
+  padding: 0;
+}
