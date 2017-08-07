@@ -2,10 +2,10 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: index
 ---
 
-<video autoplay controls="false">
+<video autoplay muted controls="false" width="1280" height="720">
   <source src="assets/vid/dcrecycles.webm" type="video/webm">
   <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
   Unsupported, oh no!
