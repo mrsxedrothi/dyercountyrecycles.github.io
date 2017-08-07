@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Homepage text
+<video src="assets/vid/dcrecycles.mp4" autoplay>Unsupported, oh no!</video>
