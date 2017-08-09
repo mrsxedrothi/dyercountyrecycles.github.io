@@ -5,7 +5,7 @@
 layout: index
 ---
 
-<video autoplay muted controls="false" width="1280" height="720">
+<video autoplay muted width="1280" height="720">
   <source src="assets/vid/dcrecycles.webm" type="video/webm">
   <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
   Unsupported, oh no!
