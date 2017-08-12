@@ -17,8 +17,8 @@ section.front {
   position: relative;
   margin: 0 auto; 
   width: 960px;
-  &.video-overlap {
-  
+  img {
+    display: block;
   }
 }
 
