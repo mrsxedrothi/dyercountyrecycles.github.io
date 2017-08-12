@@ -14,8 +14,9 @@ body {
 }
 
 section.front {
-  img.video-overlap {
-    margin: 0 auto; 
+  margin: 0 auto; 
+  &.video-overlap {
+  
   }
 }
 
