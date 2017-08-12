@@ -5,9 +5,11 @@
 layout: index
 ---
 
-<img src="assets/img/dcrecycles.png" alt="Dyer County Recycles" />
-<video autoplay muted width="960" >
-  <source src="assets/vid/dcrecycles.webm" type="video/webm">
-  <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
-  Unsupported, oh no!
-</video>
+<section class="front">
+  <video autoplay muted width="960" >
+    <source src="assets/vid/dcrecycles.webm" type="video/webm">
+    <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
+    Unsupported, oh no!
+  </video>
+  <img src="assets/img/dcrecycles.png" alt="Dyer County Recycles" />
+</section>
