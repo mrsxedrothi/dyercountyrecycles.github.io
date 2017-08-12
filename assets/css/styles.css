@@ -19,10 +19,8 @@ body {
 
 section.front {
   position: relative;
-  margin: 0 auto; }
-  section.front video {
-    position: relative;
-    margin: 0 auto; }
+  margin: 0 auto;
+  width: 960px; }
 
 .hidden {
   display: none; }
