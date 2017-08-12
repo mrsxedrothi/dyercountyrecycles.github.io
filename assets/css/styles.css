@@ -21,6 +21,10 @@ section.front {
   position: relative;
   margin: 0 auto; }
 
+video {
+  position: relative;
+  margin: 0 auto; }
+
 .hidden {
   display: none; }
 
