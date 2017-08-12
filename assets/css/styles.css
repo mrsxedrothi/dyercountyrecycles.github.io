@@ -21,7 +21,7 @@ section.front {
   position: relative;
   margin: 0 auto;
   width: 960px; }
-  section.front img {
+  section.front.video-overlap {
     display: block; }
 
 .hidden {
