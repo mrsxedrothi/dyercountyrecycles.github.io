@@ -11,5 +11,5 @@ layout: index
     <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
     Unsupported, oh no!
   </video>
-  <img class="video-overlap hidden" id="front-image" src="assets/img/dcrecycles.png" alt="Dyer County Recycles" height="600" />
+  <img class="hidden" id="front-image" src="assets/img/dcrecycles.png" alt="Dyer County Recycles" height="600" />
 </section>
