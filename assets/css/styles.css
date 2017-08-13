@@ -16,7 +16,7 @@ video {
   padding: 0; }
 
 .page-content {
-  padding: 0 0;
+  padding: 0;
   background: white; }
 
 .wrapper {
@@ -32,6 +32,7 @@ section.front {
 
 .video-overlay {
   display: block;
-  margin: 20px auto 0; }
+  margin: 0 auto;
+  padding-top: 15px; }
 
 /*# sourceMappingURL=styles.css.map */
