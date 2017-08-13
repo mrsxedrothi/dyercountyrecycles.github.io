@@ -12,7 +12,8 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7df2d', endColorstr='#f8ffe8',GradientType=0 ); }
 
 .page-content {
-  padding: 0 0; }
+  padding: 0 0;
+  background: white; }
 
 .wrapper {
   padding: 15px 0; }
