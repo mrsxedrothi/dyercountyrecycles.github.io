@@ -5,6 +5,6 @@ function videoEnd(e) {
   var imageObj = document.getElementById('front-image');
   videoObj.classList.add('hidden');
   imageObj.classList.remove('hidden');
-  imageObj.classList.add('video-overly');
+  imageObj.classList.add('video-overlay');
   //alert('video is over');
 }
