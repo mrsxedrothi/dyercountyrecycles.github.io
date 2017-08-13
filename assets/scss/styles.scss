@@ -17,12 +17,13 @@ section.front {
   position: relative;
   margin: 0 auto; 
   width: 960px;
-  .video-overlap {
-    display: block;
-    margin: 0 auto;
-  }
 }
 
 .hidden {
   display: none;
+}
+
+.video-overlap {
+  display: block;
+  margin: 0 auto;
 }
