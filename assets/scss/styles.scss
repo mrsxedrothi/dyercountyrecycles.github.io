@@ -5,6 +5,10 @@ body {
   @include bg-gradient();
 }
 
+video {
+  margin: 0 auto;
+}
+
 .page-content {
   padding: 0 0;
   background: white;
