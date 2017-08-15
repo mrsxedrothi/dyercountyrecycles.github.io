@@ -9,7 +9,6 @@ layout: index
   <video id="front-video" autoplay muted controls width="960" >
     <source src="assets/vid/dcrecycles.webm" type="video/webm">
     <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
-    Unsupported, oh no!
+    <img id="front-image" class="hidden" src="assets/img/dcrecycles.png" alt="Dyer County Recycles" height="520" />
   </video>
-  <img id="front-image" class="hidden" src="assets/img/dcrecycles.png" alt="Dyer County Recycles" height="520" />
 </section>
