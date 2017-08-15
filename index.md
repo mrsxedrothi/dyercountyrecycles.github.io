@@ -6,7 +6,7 @@ layout: index
 ---
 
 <section class="front">
-  <video id="front-video" autoplay muted controls width="960" >
+  <video id="front-video" autoplay muted width="960" >
     <source src="assets/vid/dcrecycles.webm" type="video/webm">
     <source src="assets/vid/dcrecycles.mp4" type="video/mp4">
     <img id="front-image" src="assets/img/dcrecycles.png" alt="Dyer County Recycles" height="520" />
