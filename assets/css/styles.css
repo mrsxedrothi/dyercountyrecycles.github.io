@@ -36,7 +36,7 @@ section.front {
   padding-top: 15px; }
 
 textarea {
-  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 input[name="_gotcha"] {
   display: none; }
