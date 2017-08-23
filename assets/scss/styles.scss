@@ -35,3 +35,11 @@ section.front {
   margin: 0 auto;
   padding-top: 15px;
 }
+
+textarea {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+input[name=_gotcha] {
+  display: none;
+}
