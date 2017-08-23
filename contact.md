@@ -14,6 +14,7 @@ permalink: /contact/
   <div class="form-item">
     <textarea name="body" rows="3" cols="60" required placeholder="Enter your comment or question here"></textarea>
   </div>
+  <input type="text" name="_gotcha" placeholder="Don't fill this out">
   <input type="hidden" name="_next" value="https://dyercountyrecycles.org/thank-you/">
   <input type="submit" value="Send">
 </form>
