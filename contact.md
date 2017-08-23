@@ -12,7 +12,8 @@ permalink: /contact/
     <input type="email" name="_replyto" required placeholder="Your email">
   </div>
   <div class="form-item">
-    <input type="textarea" name="body" rows="3" cols="60" required placeholder="Enter your comment or question here">
+    <textarea name="body" rows="3" cols="60" required placeholder="Enter your comment or question here"></textarea>
   </div>
+  <input type="hidden" name="_next" value="https://dyercountyrecycles.org/thank-you/">
   <input type="submit" value="Send">
 </form>
