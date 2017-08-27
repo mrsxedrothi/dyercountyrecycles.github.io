@@ -12,7 +12,8 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7df2d', endColorstr='#f8ffe8',GradientType=0 ); }
 
 header.site-header {
-  background: url("assets/img/dcrecycles-banner.png"); }
+  background: url("../img/dcrecycles-banner.png");
+  background-size: contain; }
 
 video {
   margin: 0 auto;

@@ -6,7 +6,8 @@ body {
 }
 
 header.site-header {
-  background: url('assets/img/dcrecycles-banner.png');
+  background: url('../img/dcrecycles-banner.png');
+  background-size: contain;
 }
 
 video {
