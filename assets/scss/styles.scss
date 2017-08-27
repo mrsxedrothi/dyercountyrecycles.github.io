@@ -5,8 +5,11 @@ body {
   @include bg-gradient();
 }
 
+header.site-header {
+  background: url('assets/img/dcrecycles-banner.png');
+}
+
 video {
-  
   margin: 0 auto;
   padding: 0;
 }
