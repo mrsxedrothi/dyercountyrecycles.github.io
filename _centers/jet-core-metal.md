@@ -1,6 +1,6 @@
 ---
 layout: center
-title: Jet Core Metal
+title: Jet Core and Metals
 phone: 731-288-0882
 address: 840 Samaria Bend Road
 city: Dyersburg
